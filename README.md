@@ -99,3 +99,4 @@
 
 * [@nzw9314](https://github.com/nzw9314)
 
+获取cookie方法  http://blog.sina.com.cn/s/blog_542268bd0102yr8a.html
